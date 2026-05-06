@@ -15,7 +15,7 @@ export default function LenisWrapper({ children }: { children: React.ReactNode }
       smoothTouch: false,
       touchMultiplier: 2,
       infinite: false,
-    });
+    } as any);
 
     function raf(time: number) {
       lenis.raf(time);
