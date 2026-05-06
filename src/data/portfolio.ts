@@ -25,8 +25,16 @@ export const portfolioData = {
       institution: "CISCE",
       stream: "Science",
       duration: "2023",
-      score: "94.40%",
-      degree: undefined
+      degree: undefined,
+      score: undefined
+    },
+    {
+      level: "Secondary (X)",
+      institution: "ICSE",
+      duration: "2021",
+      degree: undefined,
+      stream: undefined,
+      score: undefined
     }
   ],
   experience: [
@@ -139,7 +147,7 @@ export const portfolioData = {
     "Core CS": ["Data Structures", "Algorithms", "System Design"]
   },
   achievements: [
-    "Hult Prize 2026 – Winner (Eminent solution for global social impact challenge)",
+    "HULT HITK (ON CAMPUS ROUND) Winner (Eminent solution for global social impact challenge)",
     "Hult India 2026 – Finalist (Distinguished among top national cohorts at IIT Bombay)",
     "Smart India Hackathon 2025 – Finalist (Elite tier selection nationwide)",
     "Kshitij IIT Kharagpur 2026 – NLP Finalist",
