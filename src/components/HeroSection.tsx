@@ -74,9 +74,9 @@ export default function HeroSection({ data }: { data: PortfolioRaw }) {
             </motion.div>
 
             {/* Headline */}
-            <h1 style={{ fontSize: "clamp(2.8rem, 5vw, 4.5rem)", fontFamily: "var(--primary)", fontWeight: 700, lineHeight: 1.1, color: "var(--txt-bright)", marginBottom: "1.8rem", letterSpacing: "-0.02em" }}>
+            <h1 style={{ fontSize: "clamp(2.4rem, 4.5vw, 4rem)", fontFamily: "var(--primary)", fontWeight: 700, lineHeight: 1.15, color: "var(--txt-bright)", marginBottom: "1.8rem", letterSpacing: "-0.02em" }}>
               <motion.span style={{ display: "block" }} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.35, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}>
-                From ideas to
+                The goal isn't to write code,
               </motion.span>
               <motion.span
                 style={{ display: "block", background: "linear-gradient(120deg, #0af0b8 0%, #3ba2ea 50%, #8a2be2 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text" }}
@@ -84,7 +84,10 @@ export default function HeroSection({ data }: { data: PortfolioRaw }) {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.5, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}
               >
-                intelligent systems.
+                but to reduce chaos
+              </motion.span>
+              <motion.span style={{ display: "block" }} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.65, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}>
+                into something that works.
               </motion.span>
             </h1>
 
