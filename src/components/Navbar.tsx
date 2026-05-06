@@ -43,9 +43,9 @@ export default function Navbar() {
           <span style={{
             width: 28, height: 28, background: "linear-gradient(135deg, #0af0b8, #3ba2ea)",
             borderRadius: 8, display: "inline-flex", alignItems: "center", justifyContent: "center",
-            fontSize: "0.7rem", fontWeight: 900, color: "#050810",
-          }}>AP</span>
-          <span>ap<span style={{ color: "var(--accent)" }}>.dev</span></span>
+            fontSize: "0.55rem", fontWeight: 900, color: "#050810",
+          }}>AVI</span>
+          <span>avi-dev<span style={{ color: "var(--accent)" }}>-machine</span></span>
         </motion.a>
 
         {/* Nav links */}

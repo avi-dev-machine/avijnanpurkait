@@ -76,7 +76,7 @@ export default function HeroSection({ data }: { data: PortfolioRaw }) {
             {/* Headline */}
             <h1 style={{ fontSize: "clamp(2.8rem, 5vw, 4.5rem)", fontFamily: "var(--primary)", fontWeight: 700, lineHeight: 1.1, color: "var(--txt-bright)", marginBottom: "1.8rem", letterSpacing: "-0.02em" }}>
               <motion.span style={{ display: "block" }} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.35, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}>
-                {name.split(" ")[0]}
+                From ideas to
               </motion.span>
               <motion.span
                 style={{ display: "block", background: "linear-gradient(120deg, #0af0b8 0%, #3ba2ea 50%, #8a2be2 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text" }}
@@ -84,10 +84,7 @@ export default function HeroSection({ data }: { data: PortfolioRaw }) {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.5, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}
               >
-                builds systems
-              </motion.span>
-              <motion.span style={{ display: "block" }} initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.65, duration: 0.9, ease: [0.16, 1, 0.3, 1] }}>
-                that <span style={{ color: "var(--accent)" }}>ship.</span>
+                intelligent systems.
               </motion.span>
             </h1>
 
