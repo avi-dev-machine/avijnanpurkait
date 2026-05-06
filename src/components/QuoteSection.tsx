@@ -29,7 +29,7 @@ export default function QuoteSection() {
               fontWeight: 600, color: "var(--txt-bright)", lineHeight: 1.4,
               letterSpacing: "-0.02em", marginBottom: "2rem"
             }}>
-              Simplicity is prerequisite for reliability.
+              Programs must be written for people to read...
             </p>
             
             <div style={{
@@ -40,7 +40,7 @@ export default function QuoteSection() {
                 fontFamily: "var(--secondary)", fontSize: "1rem", color: "var(--accent)",
                 letterSpacing: "0.1em", fontWeight: 500
               }}>
-                EDSGER W. DIJKSTRA
+                HAROLD ABELSON
               </p>
               <div style={{ width: 40, height: 1, background: "rgba(10,240,184,0.4)" }} />
             </div>
