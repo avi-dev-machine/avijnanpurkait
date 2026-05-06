@@ -69,7 +69,7 @@ export default function AboutSection({ data }: { data: PortfolioRaw }) {
               
               <GlassCard hover={false} style={{ padding: "0.5rem", borderRadius: 24, zIndex: 1, position: "relative" }}>
                 <div style={{ position: "relative", borderRadius: 20, overflow: "hidden", aspectRatio: "3.5/4" }}>
-                  <Image src="/about.png" alt="Workspace" fill sizes="400px" style={{ objectFit: "cover" }} />
+                  <Image src="/about.jpg" alt="Workspace" fill sizes="400px" style={{ objectFit: "cover" }} />
                   {/* Glare overlay */}
                   <div style={{ position: "absolute", inset: 0, background: "linear-gradient(120deg, rgba(255,255,255,0.1) 0%, transparent 50%)" }} />
                 </div>
