@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#10130F"/>
+  <path d="M0 140H1600M0 320H1600M0 500H1600M0 680H1600M0 860H1600M180 0V1000M460 0V1000M740 0V1000M1020 0V1000M1300 0V1000" stroke="#D6FF2B" stroke-opacity=".13"/>
+  <path d="M132 680C370 446 506 740 744 503S1104 190 1477 367" stroke="#D6FF2B" stroke-width="3" stroke-dasharray="10 18"/>
+  <g stroke="#D6FF2B" stroke-width="3"><circle cx="132" cy="680" r="18"/><circle cx="744" cy="503" r="18"/><circle cx="1477" cy="367" r="18"/></g>
+  <rect x="300" y="240" width="500" height="260" fill="#0A0B0A" stroke="#D6FF2B" stroke-width="3" transform="rotate(-7 300 240)"/>
+  <text x="347" y="335" fill="#D6FF2B" font-family="monospace" font-size="42">if (state.valid) {</text><text x="398" y="400" fill="#D6FF2B" font-family="monospace" font-size="42">render(diagram)</text><text x="347" y="465" fill="#D6FF2B" font-family="monospace" font-size="42">}</text>
+</svg>

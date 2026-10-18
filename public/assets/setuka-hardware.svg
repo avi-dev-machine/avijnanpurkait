@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#10130F"/><g stroke="#D6FF2B" stroke-opacity=".14"><path d="M0 100H1200M0 300H1200M0 500H1200M0 700H1200M150 0V900M450 0V900M750 0V900M1050 0V900"/></g>
+  <g fill="#0A0B0A" stroke="#D6FF2B" stroke-width="8"><circle cx="230" cy="510" r="56"/><circle cx="590" cy="270" r="56"/><circle cx="910" cy="470" r="56"/><circle cx="730" cy="700" r="56"/></g><g stroke="#D6FF2B" stroke-width="5" stroke-dasharray="12 12"><path d="M277 475L543 302M645 305L858 438M873 515L768 656M680 678L276 538"/></g>
+  <g fill="#D6FF2B"><circle cx="230" cy="510" r="12"/><circle cx="590" cy="270" r="12"/><circle cx="910" cy="470" r="12"/><circle cx="730" cy="700" r="12"/></g><text x="58" y="845" fill="#D6FF2B" font-family="monospace" font-size="28">MESH / SIGNAL GOOD</text>
+</svg>

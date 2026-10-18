@@ -1,0 +1,35 @@
+{
+  "name": "portfolio-new",
+  "version": "1.0.0",
+  "description": "Avijnan Purkait — Intelligent field systems portfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/p5": "^1.7.7",
+    "framer-motion": "^14.3.0",
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
+    "lucide-react": "^1.59.0",
+    "next": "^16.4.2",
+    "p5": "^2.3.4",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.2",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  }
+}

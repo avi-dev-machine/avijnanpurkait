@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#10130F"/><g stroke="#D6FF2B" stroke-opacity=".3"><path d="M0 100H1200M0 300H1200M0 500H1200M0 700H1200M150 0V900M450 0V900M750 0V900M1050 0V900"/></g>
+  <path d="M600 760V206M600 454C432 440 324 324 300 155M600 530C830 510 968 340 942 180M600 640C455 592 367 574 230 624" stroke="#D6FF2B" stroke-width="8"/>
+  <path d="M600 430C440 438 324 320 300 155C460 150 588 260 600 430ZM600 523C760 500 924 390 942 180C775 220 630 350 600 523ZM600 640C450 590 336 592 230 624C355 724 493 740 600 640Z" fill="#D6FF2B" fill-opacity=".15" stroke="#D6FF2B" stroke-width="5"/>
+  <text x="58" y="845" fill="#D6FF2B" font-family="monospace" font-size="28">LOCAL INTELLIGENCE / OFFLINE FIRST</text>
+</svg>

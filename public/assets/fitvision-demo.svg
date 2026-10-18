@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <rect width="1200" height="900" fill="#10130F"/><g stroke="#D6FF2B" stroke-opacity=".2"><path d="M0 100H1200M0 300H1200M0 500H1200M0 700H1200M150 0V900M450 0V900M750 0V900M1050 0V900"/></g>
+  <g stroke="#D6FF2B" stroke-width="10" stroke-linecap="round"><circle cx="600" cy="177" r="55"/><path d="M600 232L600 452M600 292L410 405M600 292L790 405M600 452L470 700M600 452L735 700"/></g><g fill="#D36A4B"><circle cx="600" cy="292" r="17"/><circle cx="410" cy="405" r="17"/><circle cx="790" cy="405" r="17"/><circle cx="600" cy="452" r="17"/><circle cx="470" cy="700" r="17"/><circle cx="735" cy="700" r="17"/></g>
+  <text x="58" y="845" fill="#D6FF2B" font-family="monospace" font-size="28">POSE LOCK / REAL TIME</text>
+</svg>
